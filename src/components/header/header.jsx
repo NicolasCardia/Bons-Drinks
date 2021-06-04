@@ -17,7 +17,7 @@ const Header = () => {
                 </Link>
 
 
-                <Link to='/about' style={{ textDecoration: 'none' }}>
+                <Link to='/sobreNos' style={{ textDecoration: 'none' }}>
                     <li>Sobre nós</li>
                 </Link>
 

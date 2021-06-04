@@ -4,7 +4,7 @@ import Footer from './components/footer/footer'
 import React, { useEffect, useState} from 'react';
 import Home from './pages/home';
 import Contact from './pages/contact';
-//import Location from './components/location/location';
+import Sobre from './pages/aboutWe/index'
 import Drinks from './pages/drinks';
 import Loading from './components/loading';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
@@ -35,8 +35,8 @@ export default function App() {
           <Route path="/contact" >
             <Contact />
           </Route>
-          <Route path="/about" >
-            
+          <Route path="/sobreNos" >
+            <Sobre />
           </Route>
           <Route path="/drinks" >
             <Drinks />
