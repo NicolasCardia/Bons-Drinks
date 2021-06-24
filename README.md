@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/75455191/123197768-688f7080-d482-11eb-
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Axios](https://www.npmjs.com/package/axios) 
 
-#Desenvolvedor Responsável
+# Desenvolvedor Responsável
 <table>      
   <tr>    
        <td align="center">
@@ -34,4 +34,4 @@ https://user-images.githubusercontent.com/75455191/123197768-688f7080-d482-11eb-
   </tr>     
 </table>
 
-</br>
+
